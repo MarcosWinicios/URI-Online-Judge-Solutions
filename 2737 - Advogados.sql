@@ -18,7 +18,7 @@ CREATE TABLE lawyers(
 	(5525, 'Penny J. Cormier', 6);
 
 
-/*RESOLUÇÃOI DO EXERCÍCIO*/
+/*RESOLUÇÃO DO EXERCÍCIO*/
 
 select name, customers_number  
 		from lawyers
