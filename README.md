@@ -33,7 +33,20 @@ _Todos os problemas foram solucionados por [Marcos Winicios](https://github.com/
       ```
 
           USE uri_Problem_xxx;
-          CREATE TABLE tabela (
+          
+          CREATE TABLE tabela1 (
+            coluna 1,
+            coluna 2,
+            coluna n
+          );
+          
+          CREATE TABLE tabela2 (
+            coluna 1,
+            coluna 2,
+            coluna n
+          );
+          
+          CREATE TABLE tabelaN (
             coluna 1,
             coluna 2,
             coluna n
