@@ -103,7 +103,7 @@ _Todos os problemas foram solucionados por [Marcos Winicios](https://github.com/
    
   
  **![#c5f015](https://placehold.it/15/c5f015/000000?text=+)** **OBS:** 
-  Utilize o PostgreSql para fazer os testes, pois é SGBD padrão dos problemas do URI.
+  Utilize o PostgreSql para fazer os testes, pois é o SGBD padrão dos problemas do URI.
   
 ---
 
