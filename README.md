@@ -2,9 +2,10 @@
 
 
 
-_Este Repositório foi criado para disponibilizar scripts que servem como resolução de alguns problemas da plataforma URI Online Judge na categoria de Banco de Dados. Todos os problemas foram solucionados por [Marcos Winicios](https://github.com/MarcosWinicios) durante o curso de Sistemas de Informação na disciplina de Banco de Dados II_
+_Este Repositório foi criado para disponibilizar scripts que servem como resolução de alguns problemas da plataforma URI Online Judge na categoria de Banco de Dados. Todos os problemas foram solucionados por [Marcos Winicios](https://github.com/MarcosWinicios) durante o curso de Sistemas de Informação na disciplina de Banco de Dados II._
 
-###### **O URI Online Judge é um projeto para todos. Tem como objetivo fornecer uma plataforma onde todos possam aprender, praticar e aprimorar suas habilidades em algoritmos e linguagens de programação. Link para acesso: [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/login)**
+###### **O URI Online Judge é um projeto para todos. Tem como objetivo fornecer uma plataforma onde todos possam aprender, praticar e aprimorar suas habilidades em algoritmos e linguagens de programação.
+Link para acesso: [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/login)**
 
 ---
 ## Os arquivos seguem o seguinte padrão:
