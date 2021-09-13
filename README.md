@@ -1,4 +1,4 @@
-# **Exercícios resolvidos da plataforma URI Online Judge na categoria de banco de dados relacional - SQL**
+# **Desafios resolvidos da plataforma URI Online Judge na categoria de banco de dados relacional - SQL**
 
 
 
@@ -74,7 +74,7 @@ _Todos os problemas foram solucionados por [Marcos Winicios](https://github.com/
           (Valores do registro 2),
           (Valores do registro n);
       ```
-     **2 -** Script a ser submetido(*DQL*).
+     **2 -** Script a ser submetido(*SQL*).
      
         Comando que soluciona o problema
           
